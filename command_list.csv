@@ -1,0 +1,246 @@
+    1  man ls
+    2  cls
+    3  clear
+    4  ls
+    5  cd Downloads
+    6  cd Desktpo
+    7  sd documents
+    8  sd Documents
+    9  cd Documents
+   10  cd Desktop
+   11  cd Downloads
+   12  ls
+   13  cd Documents
+   14  \tcd ~
+   15  cd Json_XML
+   16  cd..
+   17  ls
+   18  cd
+   19  pwd
+   20  mkdir 1
+   21  ls
+   22  cd Desktop
+   23  mkdir 1
+   24  touch empty.txt
+   25  ls
+   26  nano empty.txt
+   27  nano empty.txt
+   28  pwd
+   29  mv /Users/kate/1 /Users/kate/Desktop
+   30  cd /Users/kate
+   31  pwd
+   32  cd Desktop
+   33  clear
+   34  df -h
+   35  clear
+   36  clear
+   37  clear
+   38  whoami
+   39  cd Desktop
+   40  cd GIT
+   41  git config --global user.name "Katerina Suprun"  
+   42   \n \t\ngit config --global user.email suprun.katerina@gmai.com
+   43  git clone https://github.com/KateSuprun/Lesson3.1.git
+   44  clear git clone https://github.com/KateSuprun/Lesson3.1.git
+   45  git --version
+   46  clear
+   47  cd Desktop
+   48  cd GIT
+   49  \nBash команди\n100%\nC2\n\ngit config --global user.name "Ivan Ivanov"\n \n \n \t\ngit config --global user.name "Ivan Ivanov"\nВключить программу чтения с экрана\nЧтобы включить программу чтения с экрана, нажмите ⌘+Option+Z. Для просмотра списка быстрых клавиш нажмите ⌘косая черта.3 ч clear
+   50  cd Desktop
+   51  cd GIT
+   52  git config --global user.name "Katerina Suprun"
+   53  git config --global user.email suprun.katerina@gmail.com
+   54  pwd
+   55  git clone https://github.com/KateSuprun/Lesson3.1.git
+   56  git status
+   57  cd Lesson3.1
+   58  git status
+   59  touch nex.txt
+   60  git status
+   61  git add new.txt
+   62  git status
+   63  git add nex.txt
+   64  git status
+   65  git commit -m "New file created"
+   66  git status
+   67  git log
+   68  git branch
+   69  git checkout -b new_branch
+   70  git branch
+   71  git checkout main
+   72  git branch
+   73  git checkout new_branch
+   74  git branch
+   75  nano nex.txt
+   76  git status
+   77  git commit -m "New modified"
+   78  git status
+   79  git commit -a "New modified"
+   80  git status
+   81  git checkout main
+   82  git merge new_branch
+   83  clear
+   84  cd Desktop
+   85  cd GIT
+   86  git clone https://github.com/KateSuprun/HW_10.git
+   87  cd Desktop
+   88  cd GIT
+   89  git clone https://github.com/KateSuprun/HW_10.git
+   90  cd HW_10
+   91  touch text_ignore.txt
+   92  git status
+   93  git add text_ignore.txt
+   94  git status
+   95  git commit -m "New commit"
+   96  touch main_test.txt
+   97  git status
+   98  git add main_test.txt
+   99  git status
+  100  git commit -m "New commit"
+  101  git checkout -b develop
+  102  git checkout develop
+  103  git branch
+  104  touch develop_test.txt
+  105  git add develop_test.txt
+  106  git commit -m "New commit"
+  107  git status
+  108  cd develop_test.txt
+  109  nano develop_test.txt
+  110  git status
+  111  git add develop_test.txt
+  112  git status
+  113  git commit -m "New commit"
+  114  git checkout main
+  115  git branch
+  116  [200~ 
+  117  git merge develop
+  118  git log
+  119  command_list.csv
+  120  0 > command_list.csv
+  121  git add command_list.csv
+  122  git commit -m "New commit"
+  123  history 0 > command_list.csv\n
+  124  git add command_list.csv\n
+  125  git commit -m "New commit"
+  126  git status
+  127  git push
+  128  clear
+  129  git push
+  130  git push
+  131  clear
+  132  sd Desktop
+  133  cd Desktop
+  134  cd GIT
+  135  git clone https://github.com/KateSuprun/HW_10.git
+  136  cd HW_10
+  137  touch text_ignore.txt
+  138  nano .gitignore
+  139  nano .gitignor
+  140  git status
+  141  git add. .gitignor
+  142  add .gitignor
+  143  add text_ignore.txt
+  144  history 0 > command_list.csv\nclear
+  145  git status
+  146  cd Desktop
+  147  cd GIT
+  148  git clone https://github.com/KateSuprun/HW_10.git
+  149  touch text_ignore.txt
+  150  cd HW_10
+  151  touch text_ignore.txt
+  152  nano .gitignor
+  153  git status
+  154  git add text_ignore.txt
+  155  git status
+  156  git add .gitignor
+  157  git status
+  158  git commit -m "New commit"
+  159  touch main_test.txt
+  160  git add main_test.txt
+  161  git status
+  162  git commit -m "New commit"
+  163  git checkout -b develop
+  164  git checkout develop
+  165  touch develop_test.txt
+  166  git add 
+  167  git add develop_test.txt
+  168  git status
+  169  git commit -m "New commit"
+  170  git status
+  171  nano develop_test.txt
+  172  git status
+  173  git add develop_test.txt
+  174  git status
+  175  git commit -m "New commit"
+  176  git status
+  177  checkout main
+  178  git checkout main
+  179  git merge develop
+  180  git log
+  181  history 0 > command_list.csv
+  182  git add command_list.csv
+  183  git status
+  184  git commit -m "New commit"
+  185  git status
+  186  git log
+  187  git push
+  188  git push
+  189  git status
+  190  git push
+  191  git push
+  192  git push
+  193  nano .gitignore
+  194  git status
+  195  git add .gitignore
+  196  git status
+  197  git commit -m "New commit"
+  198  git status
+  199  git push
+  200  git log
+  201  git push
+  202  cd Desktop
+  203  cd GIT
+  204  git clone https://github.com/KateSuprun/HW_10.git
+  205  cd HW_10
+  206  touch ext_ignore.txt
+  207  nano .gitignore
+  208  git status
+  209  cd Desktop
+  210  cd GIT
+  211  git clone https://github.com/KateSuprun/HW_10.git
+  212  cd HW_10
+  213  touch text_ignore.txt
+  214  nano .gitignore
+  215  git status
+  216  git add .gitignore
+  217  git status
+  218  git commit -m "New commit"
+  219  git status
+  220  touch main_test.txt
+  221  git add main_test.txt
+  222  git commit -m "New commit"
+  223  git status
+  224  git checkout -b develop
+  225  git checkout develop
+  226  touch develop_test.txt
+  227  git status
+  228  git add develop_test.txt
+  229  git status
+  230  git commit -m "New commit"
+  231  git status
+  232  nano develop_test.txt file
+  233  git status
+  234  git add develop_test.txt file
+  235  git commit -m "New commit"
+  236  git status
+  237  git add develop_test.txt
+  238  git status
+  239  git commit -m "New commit"
+  240  git status
+  241  git checout main
+  242  chackout main
+  243  checkout main
+  244  git checkout main
+  245  git merge develop
+  246  git log
